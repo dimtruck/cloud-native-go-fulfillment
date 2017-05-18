@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/gogo-service/service"
+	"github.com/dimtruck/cloud-native-go-fulfillment/service"
 )
 
 func main() {

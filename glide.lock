@@ -1,0 +1,16 @@
+hash: 6d3bed053dee25b0b0ed4094fc278eee0ed64756db88de41819fde0ab0ae02e3
+updated: 2017-05-17T20:49:13.803317665-05:00
+imports:
+- name: github.com/codegangsta/negroni
+  version: 1d8981a52d6bda4467a9faacf3fdddd38222dfc4
+- name: github.com/dimtruck/cloud-native-go-fulfillment
+  version: f89adffcbd3c8ab09869ffd654b89a767d06231d
+  subpackages:
+  - service
+- name: github.com/gorilla/context
+  version: 08b5f424b9271eedf6f9f0ce86cb9396ed337a42
+- name: github.com/gorilla/mux
+  version: 4c1c3952b7d9d0a061a3fa7b36fd373ba0398ebc
+- name: github.com/unrolled/render
+  version: 50716a0a853771bb36bfce61a45cdefdb98c2e6e
+devImports: []
