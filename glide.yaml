@@ -1,0 +1,5 @@
+package: .
+import:
+- package: github.com/gogo-service/service
+- package: github.com/gorilla/mux
+- package: github.com/unrolled/render
