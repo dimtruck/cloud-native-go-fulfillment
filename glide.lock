@@ -1,10 +1,10 @@
 hash: 6d3bed053dee25b0b0ed4094fc278eee0ed64756db88de41819fde0ab0ae02e3
-updated: 2017-05-17T20:49:13.803317665-05:00
+updated: 2017-05-17T21:11:30.640844-05:00
 imports:
 - name: github.com/codegangsta/negroni
   version: 1d8981a52d6bda4467a9faacf3fdddd38222dfc4
 - name: github.com/dimtruck/cloud-native-go-fulfillment
-  version: f89adffcbd3c8ab09869ffd654b89a767d06231d
+  version: ab4c087c59a90fb0169937269a418cec20538415
   subpackages:
   - service
 - name: github.com/gorilla/context
